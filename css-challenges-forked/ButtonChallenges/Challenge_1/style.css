@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.container {
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  padding: 15px 26px;
+  background-color: #2999f3;
+  position: relative;
+  display: inline-block;
+  color: #ffffff;
+}
+.badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  background: #000000;
+  color: white;
+}

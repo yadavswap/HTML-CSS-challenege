@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+
+tr {
+    background-color: aqua;
+}
+
+th {
+    color: red;
+}
+
+caption {
+    position: relative;
+    top: 300px;
+}

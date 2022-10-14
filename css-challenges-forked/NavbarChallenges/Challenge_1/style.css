@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    display: flex;
+}
+nav{
+    background-color: black;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    text-decoration: none;
+    outline: none;
+    justify-content: space-evenly;
+    margin: auto;
+    width: 50%;
+    display: flex;
+}
+.nav-item{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 700;
+
+}
+

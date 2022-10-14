@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+* {
+  font-family: "poppins", "verdana";
+  box-sizing: border-box;
+  background-color: #111;
+  color: aliceblue;
+}
+.container {
+  margin: auto;
+  text-align: center;
+  width: 60%;
+}
+
+.yo{
+  text-align: left;
+
+}
+
+.yo h3{
+  text-align: center;
+}
+
+input{
+  border-radius: 2rem;
+}
+
+button{
+  border-radius: 12rem;
+  background-color: #98d6ff;
+  width: 20rem;
+  padding: 5px;
+
+}
